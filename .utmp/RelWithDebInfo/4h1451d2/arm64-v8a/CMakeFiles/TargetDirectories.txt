@@ -1,0 +1,5 @@
+C:/Users/Jason/Desktop/PruebaRA/.utmp/RelWithDebInfo/4h1451d2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Jason/Desktop/PruebaRA/.utmp/RelWithDebInfo/4h1451d2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Jason/Desktop/PruebaRA/.utmp/RelWithDebInfo/4h1451d2/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Jason/Desktop/PruebaRA/.utmp/RelWithDebInfo/4h1451d2/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Jason/Desktop/PruebaRA/.utmp/RelWithDebInfo/4h1451d2/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

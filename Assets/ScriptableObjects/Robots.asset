@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0985f0a2b49999749880972d4b5f1532, type: 3}
+  m_Name: Robots
+  m_EditorClassIdentifier: 
+  ItemName: Sporty Granny
+  ItemImage: {fileID: 1041050923, guid: 60a1d28103e21654285689d26269e2d7, type: 3}
+  ItemDescription: Pasos Prohibidos
+  Item3DModel: {fileID: 7221417665008324693, guid: 589c0a12d3727ba4a81d73375787d2d7, type: 3}

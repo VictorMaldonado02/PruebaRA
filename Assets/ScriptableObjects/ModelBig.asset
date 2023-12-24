@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0985f0a2b49999749880972d4b5f1532, type: 3}
+  m_Name: ModelBig
+  m_EditorClassIdentifier: 
+  ItemName: 'The Big '
+  ItemImage: {fileID: 1270390309, guid: d8d209c0ee58ed34c82926cba24c5503, type: 3}
+  ItemDescription: Bailando Silly
+  Item3DModel: {fileID: 6626157852085910820, guid: 0aace50ebcdf94d43972945b19b5e026, type: 3}
